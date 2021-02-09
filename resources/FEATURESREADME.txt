@@ -1,0 +1,9 @@
+-TextualView works as specified by the providers.
+-InteractiveView
+  -Start/Restart button that starts and restarts the animation
+  -Play/Pause button for stopping and starting the animation
+  -looping button for enabling and disabling looping
+  -decreasesTPS button for decreasing the ticks per second of the animation
+  -increaseTPS button for increasing the ticks per second of the animation
+  -Two labels one for TPS and one to tell if looping is enabled or disabled
+  -All the buttons also support keyboard inputs specifed by their labels

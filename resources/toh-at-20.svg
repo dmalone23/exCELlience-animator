@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <body>
+
+    <svg height="199" width="410">
+      <rect fill="rgb(113, 87, 151)" height="11" width="20"/>
+      <rect fill="rgb(35, 173 ,73)" height="11" width="32"/>
+      <rect fill="rgb(9, 67, 130)" height="11" width="45"/>
+      <rect fill="rgb(96 , 198 , 208)" height="11" width="58"/>
+      <rect fill="rgb(136 , 3, 187)" height="11" width="71"/>
+      <rect fill="rgb(53 , 8, 157)" height="11" width="84"/>
+      <rect fill="rgb(165 , 115 ,94)" height="11" width="97"/>
+      <rect fill="rgb(153 , 156 ,239)" height="11" width="110"/>
+    </svg>
+
+  </body>
+</html>
